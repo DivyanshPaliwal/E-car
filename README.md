@@ -1,6 +1,6 @@
 # E-car
 
-This project is an E-car website built using HTML, CSS, JavaScript, and Swiper.js library. The website aims to showcase different car models, their specifications, and allow users to browse through them using a carousel/slider powered by Swiper.js.
+This project is a fully responsive E-car website built using HTML, CSS, JavaScript, and Swiper.js library. The website aims to showcase different car models, their specifications, and allow users to browse through them using a carousel/slider powered by Swiper.js.
 
 ## Technologies used
 
